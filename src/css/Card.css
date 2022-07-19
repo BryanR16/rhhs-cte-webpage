@@ -2,29 +2,29 @@
 .card-container{
 width: 1300px;
 overflow: hidden;
-box-shadow: 0px 0px 15px -5px;
+box-shadow: 0px 0px 20px -5px;
 transition: 0.3s;
 animation: ease-in;
 margin: 0.5rem;
-margin-top: 1.8rem;
-color: maroon;
+margin-top: 2.8rem;
+color: rgb(0, 0, 0);
 font-size: 1.5em;
 }
 
 
 .image-container img{
     overflow: hidden;
-    height: 200px;
+    height: 300px;
 }
 
 .card-content{
     margin: 2rem;
-    margin-top: 0.75rem;
+    margin-top: 1.75rem;
 }
 
 h3,p{
     margin: 0;
-    padding:0;
+    padding: 20px;
 }
 
 .card-title{
@@ -34,7 +34,7 @@ h3,p{
 
 a{
     text-transform: uppercase;
-    color: skyblue;
+    color: rgb(43, 145, 94);
     text-decoration: none;
     font-weight: bold;
 } 

@@ -4,12 +4,15 @@
   background-image: url("../images/career&tech.png"); ;
   background-size: cover;
   background-position: center;
-  border-bottom: 3px
+  border-bottom: 30px
+}
+.Splash{
+    background-image: url("https://cdn.mos.cms.futurecdn.net/FVqUjfbiHS9imyJiRiM53-1200-80.jpg")
 }
 
 .Splash .text {
-	color: white;
-	font-weight: 600;
+	color: #ffffff;
+	font-weight: 800;
 }
 
 .Splash .primary {
